@@ -1,0 +1,7 @@
+let [a, b, c] = [1, 2, 3];
+
+function x(a, b, c) {
+  return a * (b + c);
+}
+
+console.log(x(1, 2, 3));
